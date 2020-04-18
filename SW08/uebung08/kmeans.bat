@@ -1,0 +1,1 @@
+java -cp kmeans.jar kmeans.KMeans
