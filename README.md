@@ -13,4 +13,4 @@
 #### SW09 - [Viola Jones Face Detektor/Image Classification/SVM](https://github.com/AdWiAdWi/ipcv-hslu/tree/master/SW09/uebung09)
 #### SW10 - [Image Classification/Deep Learning/CNN](https://github.com/AdWiAdWi/ipcv-hslu/tree/master/SW10/uebung10)
 #### SW11 - [Features & Reconstruction (keine Übung aber Verweis auf SFMedu (Matlab/Octave))](https://github.com/jianxiongxiao/SFMedu)
-
+#### SW12/13 - [Diskrete Kosinustransformation/Kompression](https://github.com/AdWiAdWi/ipcv-hslu/tree/master/SW13%2B14)
